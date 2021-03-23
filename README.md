@@ -1,4 +1,4 @@
-# Election.py
+# Election-scraper
 Tretí projekt v rámci Engeto akadémie.
 
 # Popis projektu
